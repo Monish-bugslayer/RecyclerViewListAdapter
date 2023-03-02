@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recycler View List Adapter</string>
+    <string name="updates">UPDATES</string>
+    <string name="headline_image">HeadLine image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="newsA">POLICE ARE investigating two charred bodies found inside a burnt vehicle in Haryana’s Bhiwani Thursday, a day after a family in Rajasthan filed an FIR alleging that two men Junaid and friend Nasir had gone missing and were kidnapped by members of the Bajrang Dal.
+Hours after the discovery of the bodies, Ismail, Junaid’s cousin who filed the FIR, said the bodies were of Junaid and Nasir and they were murdered.
+Police said they are yet to ascertain their identities but confirmed that the burnt car is the Bolero the two men were driving before they were reported missing from Rajasthan’s Bharatpur. According to Rajasthan Police, Junaid has five previous cases of cow smuggling registered against him.
+    </string>
+    <string name="newsB">Speaking to reporters, Bharatpur IG Gaurav Srivastava said, “Yesterday (Wednesday) night, the family members of the two men informed the Gopalgarh police station (in Bharatpur) that they had been abducted and an FIR was lodged. We traced their phones, which were switched off. They were seen in nearby areas and the names of some suspects came up. It was said that they were in a Bolero car and had been assaulted and kidnapped. This morning, that Bolero car with the same engine and chassis number was found in Bhiwani district’s Loharu area.”
+Srivastava said, “The charred bodies of two unidentified men have been found in the car. To ascertain whether the two men are the same who were kidnapped, our team has gone to the spot with the family members. After post-mortem and DNA analyses, their identification will be verified. The family members have named some suspects and we have sent special teams to round them up. All the suspects are from Haryana.”
+The IG said the motive behind the suspected murder is not clear. “Nasir doesn’t have any criminal record. Junaid has five previous cases of cow smuggling registered against him,” he said.
+    </string>
+</resources>
